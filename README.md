@@ -1,8 +1,8 @@
 # Desafio Desenvolvedor Web
 
-Precisamos melhorar o atendimento no Brasil, para alcançar esse resultado, precisamos de um algoritmo que classifique
-nossos tickets (disponível em tickets.json) por uma ordem de prioridade, um bom parâmetro para essa ordenação é identificar o humor do consumidor.
-Pensando nisso, queremos classificar nossos tickets com as seguintes prioridade: Normal e Alta.
+Precisamos de um algoritmo que classifique os tickets (disponível em tickets.json) por uma ordem de prioridade, um bom parâmetro para essa ordenação é identificar o humor do consumidor.
+
+Pensando nisso, queremos classificar nossos tickets com as seguintes prioridade: **normal** e **alta**.
 
 ----
 
