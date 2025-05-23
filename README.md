@@ -32,6 +32,7 @@ Considere uma classificação com uma assertividade de no mínimo 70%, e guarde 
 - Informe todas as instruções e passo a passo necessário para execução do projeto.
 
 ### Critérios de avaliação
+- Desenvolvimento do backend usando **PHP** e o frontend utilizando **Javascript/Typescript**
 - Organização de código;
 - Lógica para resolver o problema;
 - Performance;
